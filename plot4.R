@@ -51,6 +51,7 @@ plot4 <- function() {
          c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
          col=c("black", "red", "blue"),
          lty=1,
+         bty="n"
   )
   
   
